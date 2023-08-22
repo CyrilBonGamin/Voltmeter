@@ -15,6 +15,8 @@ Result of the device
 
 Formula calculation
 
+![](https://github.com/CyrilBonGamin/Voltmeter/blob/master/formula%20sin.png)
+
 Input alternating triangular voltage with a frequency of 60 Hz and an amplitude of 50V.
 ![](https://github.com/CyrilBonGamin/Voltmeter/blob/master/voltage.png)
 
@@ -24,6 +26,7 @@ Result of the device
 
 Formula calculation
 
+![](https://github.com/CyrilBonGamin/Voltmeter/blob/master/formula.png)
 
 The error is explained by the imperfect discreteness of the ADC, approximations in the program.
 
